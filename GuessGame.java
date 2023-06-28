@@ -5,7 +5,7 @@
 package com.mycompany.guessgame;
 
 /**
- *
+ * Salini Sarkar
  */
 import java.util.*;
 import java.util.Scanner;
